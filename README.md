@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @JulesTheBest
 - 👀 I’m interested in CyberSecurity and in Programming softwares
 - 🌱 I’m currently learning C++
-- 😄 Pronouns: He/The Best
+- 🗣️ C#, JavaScript, Python, Java, PHP
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm geek :/
